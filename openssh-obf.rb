@@ -1,4 +1,4 @@
-class Openssh < Formula
+class OpensshObf < Formula
   desc "OpenBSD freely-licensed SSH connectivity tools"
   homepage "https://www.openssh.com/"
 
